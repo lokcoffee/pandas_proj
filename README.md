@@ -74,7 +74,7 @@
 71: 71如何在 Pandas 中使用 join 函数进行数据拼接操作
 72: 72如何在 Pandas 中使用 get_dummies 函数进行哑变量编码操作
 73: 73如何将DataFrame中的某一列的数据类型转换为int类型
-74: 74如何将DataFrame中的某一列的数据类型转换为float类型¶
+74: 74如何将DataFrame中的某一列的数据类型转换为float类型
 75: 75如何在 Pandas 中使用 pd.to_excel 函数进行 Excel 数据写入操作？
 76: 76如何在pandas中使用to_json函数将数据保存为JSON文件
 77: 77如何在pandas中使用plot函数画出柱形图
